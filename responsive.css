@@ -1,0 +1,30 @@
+@media screen and (max-width: 1020px){
+    .card-list{
+        display: none;
+    }
+    .card-header-content{
+        flex-direction: column;
+        align-items: center;
+    }
+    .h-right{
+        order: 1;
+    }
+    .h-left{
+        order: 2;
+    }
+    .footer-bottom{
+        flex-wrap: wrap;
+    }
+    .card-mid{
+        flex-direction: column;
+        align-items: center;
+    }
+    .m-left{
+        order: 1;
+        align-items: center;
+    }
+    .m-right{
+        order: 2;
+        align-items: center;
+    }
+}
