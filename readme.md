@@ -2,9 +2,11 @@
 
 
 ## Objective
-
     - Design static SAAS landing page.
     - Deploy the project. 
+
+## Deployed Link
+[Link](https://shwetank-saaslandingstatic.netlify.app/)
 
 ## Tech Stack Used
     - HTML
